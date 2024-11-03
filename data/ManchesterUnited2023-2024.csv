@@ -1,0 +1,46 @@
+Player,Nation,Pos,Age,MP,Min,Gls,Ast,G+A,PK
+André Onana,cm CMR,GK,27.0,38,3420.0,0.0,0.0,0.0,0.0
+Diogo Dalot,pt POR,DF,24.0,36,3174.0,2.0,3.0,5.0,0.0
+Bruno Fernandes,pt POR,"MF,FW",28.0,35,3118.0,10.0,8.0,18.0,4.0
+Alejandro Garnacho,ar ARG,FW,19.0,36,2565.0,7.0,4.0,11.0,0.0
+Marcus Rashford,eng ENG,FW,25.0,33,2271.0,7.0,2.0,9.0,2.0
+Rasmus Højlund,dk DEN,FW,20.0,30,2158.0,10.0,2.0,12.0,0.0
+Casemiro,br BRA,"MF,DF",31.0,25,1982.0,1.0,2.0,3.0,0.0
+Kobbie Mainoo,eng ENG,MF,18.0,24,1924.0,3.0,1.0,4.0,0.0
+Aaron Wan-Bissaka,eng ENG,DF,25.0,22,1780.0,0.0,2.0,2.0,0.0
+Scott McTominay,sct SCO,"MF,FW",26.0,32,1901.0,7.0,1.0,8.0,0.0
+Harry Maguire,eng ENG,DF,30.0,22,1653.0,2.0,2.0,4.0,0.0
+Raphaël Varane,fr FRA,DF,30.0,22,1375.0,1.0,0.0,1.0,0.0
+Jonny Evans,nir NIR,DF,35.0,23,1392.0,0.0,1.0,1.0,0.0
+Antony,br BRA,FW,23.0,29,1324.0,1.0,1.0,2.0,0.0
+Victor Lindelöf,se SWE,DF,29.0,19,1328.0,1.0,1.0,2.0,0.0
+Christian Eriksen,dk DEN,MF,31.0,22,1141.0,1.0,2.0,3.0,0.0
+Luke Shaw,eng ENG,DF,28.0,12,959.0,0.0,0.0,0.0,0.0
+Sofyan Amrabat,ma MAR,"MF,DF",26.0,21,938.0,0.0,0.0,0.0,0.0
+Lisandro Martínez,ar ARG,DF,25.0,11,646.0,0.0,1.0,1.0,0.0
+Mason Mount,eng ENG,"MF,FW",24.0,14,516.0,1.0,0.0,1.0,0.0
+Anthony Martial,fr FRA,FW,27.0,13,448.0,1.0,0.0,1.0,0.0
+Sergio Reguilón,es ESP,DF,26.0,9,412.0,0.0,0.0,0.0,0.0
+Amad Diallo,ci CIV,"FW,MF",21.0,9,390.0,1.0,1.0,2.0,0.0
+Willy Kambwala,fr FRA,DF,18.0,8,330.0,0.0,0.0,0.0,0.0
+Facundo Pellistri,uy URU,"FW,MF",21.0,9,172.0,0.0,1.0,1.0,0.0
+Hannibal Mejbri,tn TUN,"MF,FW",20.0,5,133.0,1.0,0.0,1.0,0.0
+Omari Forson,eng ENG,FW,19.0,4,70.0,0.0,1.0,1.0,0.0
+Jadon Sancho,eng ENG,"FW,MF",23.0,3,79.0,0.0,0.0,0.0,0.0
+Ethan Wheatley,eng ENG,FW,17.0,3,16.0,0.0,0.0,0.0,0.0
+Donny van de Beek,nl NED,DF,26.0,1,3.0,0.0,0.0,0.0,0.0
+Daniel Gore,eng ENG,MF,18.0,1,1.0,0.0,0.0,0.0,0.0
+Harry Amass,eng ENG,DF,16.0,0,,,,,
+Altay Bayındır,tr TUR,GK,25.0,0,,,,,
+Rhys Bennett,eng ENG,DF,19.0,0,,,,,
+Álvaro Carreras,es ESP,"DF,MF",20.0,0,,,,,
+Toby Collyer,eng ENG,MF,19.0,0,,,,,
+Tom Heaton,eng ENG,GK,37.0,0,,,,,
+Dean Henderson,eng ENG,GK,26.0,0,,,,,
+Joe Hugill,eng ENG,FW,19.0,0,,,,,
+Louis Jackson,sct SCO,DF,17.0,0,,,,,
+Dermot Mee,nir NIR,GK,20.0,0,,,,,
+Habeeb Ogunneye,eng ENG,DF,18.0,0,,,,,
+Radek Vítek,,GK,19.0,0,,,,,
+Squad Total,,,26.1,38,3420.0,57.0,36.0,93.0,6.0
+Opponent Total,,,26.2,38,3420.0,57.0,39.0,96.0,7.0

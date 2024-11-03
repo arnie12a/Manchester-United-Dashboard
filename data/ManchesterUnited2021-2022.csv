@@ -1,0 +1,39 @@
+Player,Nation,Pos,Age,MP,Min,Gls,Ast,G+A,PK
+David de Gea,es ESP,GK,30.0,38,3420.0,0.0,0.0,0.0,0.0
+Bruno Fernandes,pt POR,MF,26.0,36,3111.0,10.0,6.0,16.0,0.0
+Harry Maguire,eng ENG,DF,28.0,30,2515.0,1.0,0.0,1.0,0.0
+Scott McTominay,sct SCO,MF,24.0,30,2387.0,1.0,1.0,2.0,0.0
+Cristiano Ronaldo,pt POR,FW,36.0,30,2456.0,18.0,3.0,21.0,3.0
+Victor Lindelöf,se SWE,DF,27.0,28,2355.0,0.0,2.0,2.0,0.0
+Fred,br BRA,MF,28.0,28,2028.0,4.0,4.0,8.0,0.0
+Jadon Sancho,eng ENG,"FW,MF",21.0,29,1900.0,3.0,3.0,6.0,0.0
+Raphaël Varane,fr FRA,DF,28.0,22,1831.0,1.0,1.0,2.0,0.0
+Aaron Wan-Bissaka,eng ENG,DF,23.0,20,1793.0,0.0,0.0,0.0,0.0
+Diogo Dalot,pt POR,DF,22.0,24,1801.0,0.0,0.0,0.0,0.0
+Luke Shaw,eng ENG,DF,26.0,20,1601.0,0.0,3.0,3.0,0.0
+Alex Telles,br BRA,DF,28.0,21,1660.0,0.0,4.0,4.0,0.0
+Nemanja Matić,rs SRB,MF,32.0,23,1382.0,0.0,4.0,4.0,0.0
+Paul Pogba,fr FRA,"MF,FW",28.0,20,1349.0,1.0,9.0,10.0,0.0
+Mason Greenwood,eng ENG,"FW,MF",19.0,18,1271.0,5.0,1.0,6.0,0.0
+Anthony Elanga,se SWE,FW,19.0,21,1214.0,2.0,2.0,4.0,0.0
+Marcus Rashford,eng ENG,"FW,MF",23.0,25,1235.0,4.0,2.0,6.0,0.0
+Edinson Cavani,uy URU,FW,34.0,15,766.0,2.0,1.0,3.0,0.0
+Eric Bailly,ci CIV,DF,27.0,4,217.0,0.0,0.0,0.0,0.0
+Jesse Lingard,eng ENG,"FW,MF",28.0,16,367.0,2.0,0.0,2.0,0.0
+Juan Mata,es ESP,MF,33.0,7,235.0,0.0,0.0,0.0,0.0
+Anthony Martial,fr FRA,FW,25.0,8,212.0,1.0,0.0,1.0,0.0
+Phil Jones,eng ENG,DF,29.0,4,163.0,0.0,0.0,0.0,0.0
+Daniel James,wls WAL,FW,23.0,2,126.0,0.0,0.0,0.0,0.0
+Hannibal Mejbri,tn TUN,FW,18.0,2,68.0,0.0,0.0,0.0,0.0
+Donny van de Beek,nl NED,MF,24.0,8,75.0,1.0,0.0,1.0,0.0
+Shola Shoretire,eng ENG,MF,17.0,1,16.0,0.0,0.0,0.0,0.0
+Alejandro Garnacho,ar ARG,"FW,MF",17.0,2,13.0,0.0,0.0,0.0,0.0
+Álvaro Carreras,es ESP,"DF,MF",18.0,0,,,,,
+Amad Diallo,ci CIV,"FW,MF",19.0,0,,,,,
+Tom Heaton,eng ENG,GK,35.0,0,,,,,
+Dean Henderson,eng ENG,GK,24.0,0,,,,,
+Andreas Pereira,br BRA,MF,25.0,0,,,,,
+Charlie Savage,wls WAL,MF,18.0,0,,,,,
+Brandon Williams,eng ENG,DF,20.0,0,,,,,
+Squad Total,,,27.2,38,3420.0,56.0,46.0,102.0,3.0
+Opponent Total,,,27.0,38,3420.0,54.0,41.0,95.0,3.0

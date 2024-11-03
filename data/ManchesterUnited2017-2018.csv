@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,MP,Min,Gls,Ast,G+A,PK
+David de Gea,es ESP,GK,26.0,37,3330.0,0.0,0.0,0.0,0.0
+Nemanja Matić,rs SRB,MF,28.0,36,3118.0,1.0,1.0,2.0,0.0
+Romelu Lukaku,be BEL,FW,24.0,34,2867.0,16.0,7.0,23.0,0.0
+Antonio Valencia,ec ECU,DF,31.0,31,2740.0,3.0,1.0,4.0,0.0
+Chris Smalling,eng ENG,DF,27.0,29,2536.0,4.0,0.0,4.0,0.0
+Ashley Young,eng ENG,DF,32.0,30,2442.0,2.0,4.0,6.0,0.0
+Paul Pogba,fr FRA,MF,24.0,27,2148.0,6.0,10.0,16.0,0.0
+Phil Jones,eng ENG,DF,25.0,23,1973.0,0.0,0.0,0.0,0.0
+Juan Mata,es ESP,FW,29.0,28,1922.0,3.0,5.0,8.0,0.0
+Jesse Lingard,eng ENG,"MF,FW",24.0,33,1817.0,8.0,5.0,13.0,0.0
+Anthony Martial,fr FRA,FW,21.0,30,1582.0,9.0,5.0,14.0,1.0
+Marcus Rashford,eng ENG,"FW,MF",19.0,35,1813.0,7.0,5.0,12.0,0.0
+Victor Lindelöf,se SWE,DF,23.0,17,1285.0,0.0,0.0,0.0,0.0
+Ander Herrera,es ESP,MF,27.0,26,1268.0,0.0,2.0,2.0,0.0
+Alexis Sánchez,cl CHI,"FW,MF",28.0,12,1043.0,2.0,3.0,5.0,0.0
+Eric Bailly,ci CIV,DF,23.0,13,1001.0,1.0,0.0,1.0,0.0
+Henrikh Mkhitaryan,am ARM,"MF,FW",28.0,15,922.0,1.0,5.0,6.0,0.0
+Luke Shaw,eng ENG,DF,22.0,11,790.0,0.0,0.0,0.0,0.0
+Marcos Rojo,ar ARG,DF,27.0,9,640.0,0.0,0.0,0.0,0.0
+Scott McTominay,sct SCO,MF,20.0,13,634.0,0.0,0.0,0.0,0.0
+Marouane Fellaini,be BEL,MF,29.0,16,683.0,4.0,0.0,4.0,0.0
+Matteo Darmian,it ITA,DF,27.0,8,444.0,0.0,0.0,0.0,0.0
+Daley Blind,nl NED,"DF,MF",27.0,7,362.0,0.0,0.0,0.0,0.0
+Michael Carrick,eng ENG,MF,36.0,2,109.0,0.0,0.0,0.0,0.0
+Zlatan Ibrahimović,se SWE,"MF,FW",35.0,5,106.0,0.0,0.0,0.0,0.0
+Sergio Romero,ar ARG,GK,30.0,1,90.0,0.0,0.0,0.0,0.0
+Axel Tuanzebe,cd COD,FW,19.0,1,1.0,0.0,0.0,0.0,0.0
+Joel Castro Pereira,pt POR,GK,21.0,0,,,,,
+Squad Total,,,26.7,38,3420.0,67.0,53.0,120.0,1.0
+Opponent Total,,,26.9,38,3420.0,26.0,18.0,44.0,1.0

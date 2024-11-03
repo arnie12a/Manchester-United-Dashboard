@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,MP,Min,Gls,Ast,G+A,PK
+David de Gea,es ESP,GK,22.0,37,3330,0.0,0.0,0.0,0.0
+Patrice Evra,fr FRA,DF,32.0,33,2880,1.0,3.0,4.0,0.0
+Wayne Rooney,eng ENG,"FW,MF",27.0,29,2446,17.0,10.0,27.0,3.0
+Michael Carrick,eng ENG,MF,32.0,29,2415,1.0,0.0,1.0,0.0
+Phil Jones,eng ENG,"DF,MF",21.0,26,2172,1.0,2.0,3.0,0.0
+Nemanja Vidić,rs SRB,DF,31.0,25,2081,0.0,0.0,0.0,0.0
+Chris Smalling,eng ENG,DF,23.0,25,1939,1.0,0.0,1.0,0.0
+Antonio Valencia,ec ECU,"DF,MF",27.0,29,1943,2.0,3.0,5.0,0.0
+Robin van Persie,nl NED,FW,29.0,21,1579,12.0,3.0,15.0,2.0
+Tom Cleverley,eng ENG,MF,23.0,22,1577,1.0,0.0,1.0,0.0
+Rafael,br BRA,"DF,MF",23.0,19,1413,0.0,1.0,1.0,0.0
+Jonny Evans,nir NIR,DF,25.0,17,1375,0.0,0.0,0.0,0.0
+Adnan Januzaj,be BEL,"FW,MF",18.0,27,1644,4.0,3.0,7.0,0.0
+Danny Welbeck,eng ENG,"FW,MF",22.0,25,1460,9.0,1.0,10.0,0.0
+Juan Mata,es ESP,"FW,MF",25.0,15,1225,6.0,4.0,10.0,0.0
+Shinji Kagawa,jp JPN,"FW,MF",24.0,18,1165,0.0,3.0,3.0,0.0
+Ashley Young,eng ENG,"DF,FW",28.0,20,1029,2.0,1.0,3.0,0.0
+Rio Ferdinand,eng ENG,DF,34.0,14,1129,0.0,0.0,0.0,0.0
+Marouane Fellaini,be BEL,MF,25.0,16,1104,0.0,1.0,1.0,0.0
+Darren Fletcher,sct SCO,MF,29.0,12,780,0.0,0.0,0.0,0.0
+Nani,pt POR,"FW,MF",26.0,11,558,0.0,0.0,0.0,0.0
+Javier Hernández,mx MEX,FW,25.0,24,854,4.0,3.0,7.0,0.0
+Ryan Giggs,wls WAL,"FW,MF",39.0,12,505,0.0,0.0,0.0,0.0
+Alexander Büttner,nl NED,"DF,MF",24.0,8,500,0.0,0.0,0.0,0.0
+Anderson,br BRA,MF,25.0,4,154,0.0,0.0,0.0,0.0
+Fábio,br BRA,DF,23.0,1,90,0.0,0.0,0.0,0.0
+Anders Lindegaard,dk DEN,GK,29.0,1,90,0.0,0.0,0.0,0.0
+Tom Lawrence,wls WAL,"FW,MF",19.0,1,69,0.0,0.0,0.0,0.0
+James Wilson,eng ENG,"FW,MF",17.0,1,63,2.0,0.0,2.0,0.0
+Wilfried Zaha,ci CIV,"FW,MF",20.0,2,30,0.0,0.0,0.0,0.0
+Squad Total,,,26.7,38,3420,63.0,37.0,100.0,5.0
+Opponent Total,,,26.8,38,3420,,,,

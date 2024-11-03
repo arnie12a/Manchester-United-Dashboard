@@ -1,0 +1,28 @@
+Player,Nation,Pos,Age,MP,Min,Gls,Ast,G+A,PK
+Robin van Persie,nl NED,FW,28.0,38,3123,26.0,9.0,35.0,3.0
+Patrice Evra,fr FRA,DF,31.0,34,3060,4.0,5.0,9.0,0.0
+Michael Carrick,eng ENG,MF,31.0,36,3044,1.0,4.0,5.0,0.0
+David de Gea,es ESP,GK,21.0,28,2520,0.0,0.0,0.0,0.0
+Rafael,br BRA,"DF,MF",22.0,28,2313,3.0,3.0,6.0,0.0
+Rio Ferdinand,eng ENG,DF,33.0,28,2321,1.0,1.0,2.0,0.0
+Antonio Valencia,ec ECU,"DF,MF",26.0,30,2207,1.0,5.0,6.0,0.0
+Wayne Rooney,eng ENG,"FW,MF",26.0,27,2014,12.0,10.0,22.0,1.0
+Jonny Evans,nir NIR,DF,24.0,23,1902,3.0,1.0,4.0,0.0
+Nemanja Vidić,rs SRB,DF,30.0,19,1617,1.0,0.0,1.0,0.0
+Tom Cleverley,eng ENG,MF,22.0,22,1445,2.0,2.0,4.0,0.0
+Ashley Young,eng ENG,"DF,FW",27.0,19,1368,0.0,3.0,3.0,0.0
+Shinji Kagawa,jp JPN,"FW,MF",23.0,20,1314,6.0,3.0,9.0,0.0
+Danny Welbeck,eng ENG,"FW,MF",21.0,27,1301,1.0,4.0,5.0,0.0
+Phil Jones,eng ENG,"DF,MF",20.0,17,1209,0.0,1.0,1.0,0.0
+Ryan Giggs,wls WAL,"FW,MF",38.0,22,1168,2.0,3.0,5.0,0.0
+Chris Smalling,eng ENG,DF,22.0,15,1020,0.0,0.0,0.0,0.0
+Anders Lindegaard,dk DEN,GK,28.0,10,900,0.0,0.0,0.0,0.0
+Javier Hernández,mx MEX,FW,24.0,22,952,10.0,3.0,13.0,0.0
+Anderson,br BRA,MF,24.0,17,824,1.0,1.0,2.0,0.0
+Paul Scholes,eng ENG,MF,37.0,16,771,1.0,1.0,2.0,0.0
+Nani,pt POR,"FW,MF",25.0,11,630,1.0,2.0,3.0,0.0
+Alexander Büttner,nl NED,"DF,MF",23.0,5,383,2.0,1.0,3.0,0.0
+Darren Fletcher,sct SCO,MF,28.0,3,181,1.0,0.0,1.0,0.0
+Nick Powell,eng ENG,"FW,MF",18.0,2,32,1.0,0.0,1.0,0.0
+Squad Total,,,27.3,38,3420,80.0,63.0,143.0,4.0
+Opponent Total,,,27.0,38,3420,,,,

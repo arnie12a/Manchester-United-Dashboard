@@ -1,0 +1,41 @@
+Player,Nation,Pos,Age,MP,Min,Gls,Ast,G+A,PK
+Chris Smalling,eng ENG,DF,25.0,35,3150.0,0.0,1.0,1.0,0.0
+Daley Blind,nl NED,DF,25.0,35,3114.0,1.0,1.0,2.0,0.0
+David de Gea,es ESP,GK,24.0,34,3060.0,0.0,0.0,0.0,0.0
+Juan Mata,es ESP,MF,27.0,38,2889.0,6.0,5.0,11.0,1.0
+Anthony Martial,fr FRA,"MF,FW",19.0,31,2632.0,11.0,4.0,15.0,0.0
+Wayne Rooney,eng ENG,"FW,MF",29.0,28,2406.0,8.0,6.0,14.0,1.0
+Morgan Schneiderlin,fr FRA,MF,25.0,29,2205.0,1.0,0.0,1.0,0.0
+Matteo Darmian,it ITA,DF,25.0,28,1924.0,1.0,0.0,1.0,0.0
+Michael Carrick,eng ENG,MF,34.0,28,1972.0,0.0,0.0,0.0,0.0
+Jesse Lingard,eng ENG,MF,22.0,25,1632.0,4.0,1.0,5.0,0.0
+Ander Herrera,es ESP,MF,25.0,27,1532.0,3.0,2.0,5.0,1.0
+Memphis,nl NED,MF,21.0,29,1484.0,2.0,0.0,2.0,0.0
+Marcos Rojo,ar ARG,DF,25.0,16,1249.0,0.0,1.0,1.0,0.0
+Bastian Schweinsteiger,de GER,MF,30.0,18,1202.0,1.0,0.0,1.0,0.0
+Marouane Fellaini,be BEL,MF,27.0,18,1068.0,1.0,0.0,1.0,0.0
+Ashley Young,eng ENG,"DF,MF",30.0,18,1065.0,1.0,2.0,3.0,0.0
+Marcus Rashford,eng ENG,FW,17.0,11,855.0,5.0,2.0,7.0,0.0
+Antonio Valencia,ec ECU,DF,29.0,14,857.0,0.0,3.0,3.0,0.0
+Cameron Borthwick-Jackson,eng ENG,DF,18.0,10,695.0,0.0,1.0,1.0,0.0
+Phil Jones,eng ENG,DF,23.0,10,530.0,0.0,0.0,0.0,0.0
+Luke Shaw,eng ENG,DF,20.0,5,450.0,0.0,1.0,1.0,0.0
+Sergio Romero,ar ARG,GK,28.0,4,360.0,0.0,0.0,0.0,0.0
+Guillermo Varela,uy URU,DF,22.0,4,315.0,0.0,0.0,0.0,0.0
+Paddy McNair,nir NIR,DF,20.0,8,314.0,0.0,0.0,0.0,0.0
+Timothy Fosu-Mensah,nl NED,DF,17.0,8,257.0,0.0,1.0,1.0,0.0
+Adnan Januzaj,be BEL,MF,20.0,5,145.0,1.0,0.0,1.0,0.0
+Andreas Pereira,br BRA,MF,19.0,4,84.0,0.0,0.0,0.0,0.0
+Donald Love,sct SCO,"DF,MF",20.0,1,54.0,0.0,0.0,0.0,0.0
+Javier Hernández,mx MEX,FW,27.0,1,24.0,0.0,0.0,0.0,0.0
+Nick Powell,eng ENG,"FW,MF",21.0,1,17.0,0.0,0.0,0.0,0.0
+James Wilson,eng ENG,"FW,MF",19.0,1,9.0,0.0,0.0,0.0,0.0
+Will Keane,ie IRL,"FW,MF",22.0,1,5.0,0.0,0.0,0.0,0.0
+James Weir,eng ENG,MF,19.0,1,1.0,0.0,0.0,0.0,0.0
+Sean Goss,nir NIR,MF,19.0,0,,,,,
+Sam Johnstone,eng ENG,GK,22.0,0,,,,,
+Joe Riley,eng ENG,"DF,MF",18.0,0,,,,,
+Joe Rothwell,eng ENG,"FW,MF",20.0,0,,,,,
+Axel Tuanzebe,cd COD,DF,17.0,0,,,,,
+Squad Total,,,25.6,38,3420.0,46.0,31.0,77.0,3.0
+Opponent Total,,,27.2,38,3420.0,33.0,23.0,56.0,2.0

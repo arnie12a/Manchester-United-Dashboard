@@ -1,0 +1,33 @@
+Player,Nation,Pos,Age,MP,Min,Gls,Ast,G+A,PK
+David de Gea,es ESP,GK,27.0,38,3420.0,0.0,0.0,0.0,0.0
+Paul Pogba,fr FRA,MF,25.0,35,3006.0,13.0,9.0,22.0,7.0
+Victor Lindelöf,se SWE,DF,24.0,30,2601.0,1.0,1.0,2.0,0.0
+Luke Shaw,eng ENG,DF,23.0,29,2591.0,1.0,4.0,5.0,0.0
+Ashley Young,eng ENG,DF,33.0,30,2569.0,2.0,2.0,4.0,0.0
+Nemanja Matić,rs SRB,MF,29.0,28,2436.0,1.0,0.0,1.0,0.0
+Marcus Rashford,eng ENG,FW,20.0,33,2334.0,10.0,6.0,16.0,0.0
+Chris Smalling,eng ENG,DF,28.0,24,2127.0,1.0,0.0,1.0,0.0
+Romelu Lukaku,be BEL,FW,25.0,32,2136.0,12.0,0.0,12.0,0.0
+Jesse Lingard,eng ENG,"FW,MF",25.0,27,1663.0,4.0,2.0,6.0,1.0
+Anthony Martial,fr FRA,FW,22.0,27,1621.0,10.0,2.0,12.0,1.0
+Ander Herrera,es ESP,MF,28.0,22,1403.0,2.0,3.0,5.0,0.0
+Juan Mata,es ESP,"FW,MF",30.0,22,1289.0,3.0,2.0,5.0,0.0
+Phil Jones,eng ENG,DF,26.0,18,1263.0,0.0,1.0,1.0,0.0
+Fred,br BRA,MF,25.0,17,1041.0,1.0,1.0,2.0,0.0
+Diogo Dalot,pt POR,"DF,FW",19.0,16,1013.0,0.0,2.0,2.0,0.0
+Alexis Sánchez,cl CHI,"FW,MF",29.0,20,880.0,1.0,3.0,4.0,0.0
+Scott McTominay,sct SCO,"MF,DF",21.0,16,867.0,2.0,0.0,2.0,0.0
+Eric Bailly,ci CIV,DF,24.0,12,638.0,0.0,0.0,0.0,0.0
+Marouane Fellaini,be BEL,MF,30.0,14,752.0,0.0,1.0,1.0,0.0
+Andreas Pereira,br BRA,MF,22.0,15,599.0,1.0,1.0,2.0,0.0
+Antonio Valencia,ec ECU,DF,32.0,6,466.0,0.0,0.0,0.0,0.0
+Matteo Darmian,it ITA,DF,28.0,6,443.0,0.0,0.0,0.0,0.0
+Marcos Rojo,ar ARG,DF,28.0,5,212.0,0.0,0.0,0.0,0.0
+Mason Greenwood,eng ENG,FW,16.0,3,117.0,0.0,0.0,0.0,0.0
+Tahith Chong,nl NED,FW,18.0,2,38.0,0.0,0.0,0.0,0.0
+Angel Gomes,eng ENG,"MF,FW",17.0,2,27.0,0.0,0.0,0.0,0.0
+James Garner,eng ENG,MF,17.0,1,1.0,0.0,0.0,0.0,0.0
+Lee Grant,eng ENG,GK,35.0,0,,,,,
+Sergio Romero,ar ARG,GK,31.0,0,,,,,
+Squad Total,,,26.3,38,3420.0,65.0,40.0,105.0,9.0
+Opponent Total,,,26.9,38,3420.0,51.0,37.0,88.0,6.0

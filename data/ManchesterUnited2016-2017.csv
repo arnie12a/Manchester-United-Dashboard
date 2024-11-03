@@ -1,0 +1,38 @@
+Player,Nation,Pos,Age,MP,Min,Gls,Ast,G+A,PK
+David de Gea,es ESP,GK,25.0,35,3150.0,0.0,0.0,0.0,0.0
+Paul Pogba,fr FRA,MF,23.0,30,2608.0,5.0,4.0,9.0,0.0
+Antonio Valencia,ec ECU,DF,30.0,28,2483.0,1.0,3.0,4.0,0.0
+Ander Herrera,es ESP,MF,26.0,31,2464.0,1.0,5.0,6.0,0.0
+Zlatan Ibrahimović,se SWE,FW,34.0,28,2438.0,17.0,5.0,22.0,2.0
+Eric Bailly,ci CIV,DF,22.0,25,2058.0,0.0,0.0,0.0,0.0
+Daley Blind,nl NED,DF,26.0,23,1830.0,1.0,2.0,3.0,0.0
+Juan Mata,es ESP,"MF,FW",28.0,25,1614.0,6.0,3.0,9.0,0.0
+Marcos Rojo,ar ARG,DF,26.0,21,1663.0,1.0,0.0,1.0,0.0
+Marouane Fellaini,be BEL,MF,28.0,28,1605.0,1.0,0.0,1.0,0.0
+Michael Carrick,eng ENG,MF,35.0,23,1600.0,0.0,0.0,0.0,0.0
+Phil Jones,eng ENG,DF,24.0,18,1584.0,0.0,0.0,0.0,0.0
+Anthony Martial,fr FRA,"MF,FW",20.0,25,1554.0,4.0,5.0,9.0,0.0
+Jesse Lingard,eng ENG,"MF,FW",23.0,25,1360.0,1.0,1.0,2.0,0.0
+Marcus Rashford,eng ENG,"FW,MF",18.0,32,1710.0,5.0,1.0,6.0,0.0
+Wayne Rooney,eng ENG,"MF,FW",30.0,25,1539.0,5.0,5.0,10.0,1.0
+Henrikh Mkhitaryan,am ARM,"FW,MF",27.0,24,1348.0,4.0,1.0,5.0,0.0
+Matteo Darmian,it ITA,DF,26.0,18,1333.0,0.0,0.0,0.0,0.0
+Chris Smalling,eng ENG,DF,26.0,18,1217.0,1.0,0.0,1.0,0.0
+Luke Shaw,eng ENG,DF,21.0,11,688.0,0.0,1.0,1.0,0.0
+Ashley Young,eng ENG,"DF,MF",31.0,12,758.0,0.0,1.0,1.0,0.0
+Axel Tuanzebe,cd COD,"MF,DF",18.0,4,303.0,0.0,0.0,0.0,0.0
+Sergio Romero,ar ARG,GK,29.0,2,180.0,0.0,0.0,0.0,0.0
+Timothy Fosu-Mensah,nl NED,DF,18.0,4,97.0,0.0,0.0,0.0,0.0
+Scott McTominay,sct SCO,MF,19.0,2,97.0,0.0,0.0,0.0,0.0
+Joel Castro Pereira,pt POR,GK,20.0,1,90.0,0.0,0.0,0.0,0.0
+Josh Harrop,eng ENG,FW,20.0,1,90.0,1.0,0.0,1.0,0.0
+Demetri Mitchell,eng ENG,DF,19.0,1,90.0,0.0,0.0,0.0,0.0
+Memphis,nl NED,"FW,MF",22.0,4,24.0,0.0,0.0,0.0,0.0
+Morgan Schneiderlin,fr FRA,MF,26.0,3,14.0,0.0,0.0,0.0,0.0
+Angel Gomes,eng ENG,"FW,MF",15.0,1,3.0,0.0,0.0,0.0,0.0
+Zak Dearnley,eng ENG,FW,17.0,0,,,,,
+Kieran O'Hara,ie IRL,GK,20.0,0,,,,,
+Bastian Schweinsteiger,de GER,"DF,MF",31.0,0,,,,,
+Matty Willock,ms MSR,MF,19.0,0,,,,,
+Squad Total,,,26.7,38,3420.0,54.0,37.0,91.0,3.0
+Opponent Total,,,27.4,38,3420.0,28.0,18.0,46.0,4.0

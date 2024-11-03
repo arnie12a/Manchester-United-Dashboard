@@ -1,0 +1,35 @@
+Player,Nation,Pos,Age,MP,Min,Gls,Ast,G+A,PK
+Bruno Fernandes,pt POR,MF,25.0,37,3099.0,18.0,12.0,30.0,9.0
+Aaron Wan-Bissaka,eng ENG,DF,22.0,34,3060.0,2.0,4.0,6.0,0.0
+Harry Maguire,eng ENG,DF,27.0,34,3047.0,2.0,1.0,3.0,0.0
+Marcus Rashford,eng ENG,FW,22.0,37,2920.0,11.0,9.0,20.0,0.0
+Luke Shaw,eng ENG,DF,25.0,32,2654.0,1.0,5.0,6.0,0.0
+Victor Lindelöf,se SWE,DF,26.0,29,2585.0,1.0,1.0,2.0,0.0
+Fred,br BRA,MF,27.0,30,2390.0,1.0,0.0,1.0,0.0
+David de Gea,es ESP,GK,29.0,26,2295.0,0.0,0.0,0.0,0.0
+Scott McTominay,sct SCO,MF,23.0,32,2129.0,4.0,1.0,5.0,0.0
+Paul Pogba,fr FRA,"MF,FW",27.0,26,1897.0,3.0,3.0,6.0,0.0
+Mason Greenwood,eng ENG,FW,18.0,31,1822.0,7.0,2.0,9.0,0.0
+Anthony Martial,fr FRA,FW,24.0,22,1480.0,4.0,3.0,7.0,0.0
+Edinson Cavani,uy URU,FW,33.0,26,1375.0,10.0,3.0,13.0,0.0
+Dean Henderson,eng ENG,GK,23.0,13,1125.0,0.0,0.0,0.0,0.0
+Nemanja Matić,rs SRB,MF,31.0,20,1106.0,0.0,0.0,0.0,0.0
+Daniel James,wls WAL,FW,22.0,15,910.0,3.0,1.0,4.0,0.0
+Eric Bailly,ci CIV,DF,26.0,12,916.0,0.0,0.0,0.0,0.0
+Alex Telles,br BRA,DF,27.0,9,690.0,0.0,2.0,2.0,0.0
+Juan Mata,es ESP,"FW,MF",32.0,9,509.0,1.0,2.0,3.0,1.0
+Donny van de Beek,nl NED,"MF,FW",23.0,19,524.0,1.0,1.0,2.0,0.0
+Axel Tuanzebe,cd COD,DF,22.0,9,404.0,0.0,0.0,0.0,0.0
+Brandon Williams,eng ENG,DF,19.0,4,188.0,0.0,0.0,0.0,0.0
+Amad Diallo,ci CIV,FW,18.0,3,166.0,0.0,1.0,1.0,0.0
+Anthony Elanga,se SWE,FW,18.0,2,155.0,1.0,0.0,1.0,0.0
+Timothy Fosu-Mensah,nl NED,DF,22.0,1,80.0,0.0,0.0,0.0,0.0
+Shola Shoretire,eng ENG,FW,16.0,2,11.0,0.0,0.0,0.0,0.0
+Odion Ighalo,ng NGA,FW,31.0,1,10.0,0.0,0.0,0.0,0.0
+Hannibal Mejbri,tn TUN,MF,17.0,1,9.0,0.0,0.0,0.0,0.0
+Will Fish,eng ENG,FW,17.0,1,1.0,0.0,0.0,0.0,0.0
+Nathan Bishop,eng ENG,GK,20.0,0,,,,,
+Lee Grant,eng ENG,GK,37.0,0,,,,,
+Jesse Lingard,eng ENG,"FW,MF",27.0,0,,,,,
+Squad Total,,,25.6,38,3420.0,70.0,51.0,121.0,10.0
+Opponent Total,,,26.6,38,3420.0,42.0,28.0,70.0,4.0

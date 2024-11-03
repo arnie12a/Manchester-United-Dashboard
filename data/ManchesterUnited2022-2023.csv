@@ -1,0 +1,40 @@
+Player,Nation,Pos,Age,MP,Min,Gls,Ast,G+A,PK
+David de Gea,es ESP,GK,31.0,38,3420.0,0.0,0.0,0.0,0.0
+Bruno Fernandes,pt POR,"MF,FW",27.0,37,3316.0,8.0,8.0,16.0,2.0
+Marcus Rashford,eng ENG,FW,24.0,35,2879.0,17.0,5.0,22.0,0.0
+Luke Shaw,eng ENG,DF,27.0,31,2552.0,1.0,2.0,3.0,0.0
+Christian Eriksen,dk DEN,MF,30.0,28,2048.0,1.0,8.0,9.0,0.0
+Diogo Dalot,pt POR,DF,23.0,26,2154.0,1.0,2.0,3.0,0.0
+Casemiro,br BRA,MF,30.0,28,2124.0,4.0,3.0,7.0,0.0
+Lisandro Martínez,ar ARG,DF,24.0,27,2114.0,1.0,0.0,1.0,0.0
+Antony,br BRA,FW,22.0,25,1802.0,4.0,2.0,6.0,0.0
+Raphaël Varane,fr FRA,DF,29.0,24,1911.0,0.0,0.0,0.0,0.0
+Jadon Sancho,eng ENG,"FW,MF",22.0,26,1686.0,6.0,3.0,9.0,0.0
+Aaron Wan-Bissaka,eng ENG,DF,24.0,19,1435.0,0.0,0.0,0.0,0.0
+Tyrell Malacia,nl NED,DF,22.0,22,1396.0,0.0,0.0,0.0,0.0
+Victor Lindelöf,se SWE,DF,28.0,20,1365.0,0.0,0.0,0.0,0.0
+Fred,br BRA,MF,29.0,35,1249.0,2.0,2.0,4.0,0.0
+Anthony Martial,fr FRA,FW,26.0,21,978.0,6.0,2.0,8.0,1.0
+Scott McTominay,sct SCO,MF,25.0,24,1160.0,1.0,0.0,1.0,0.0
+Wout Weghorst,nl NED,"FW,MF",29.0,17,797.0,0.0,1.0,1.0,0.0
+Harry Maguire,eng ENG,DF,29.0,16,767.0,0.0,0.0,0.0,0.0
+Marcel Sabitzer,at AUT,MF,28.0,11,627.0,0.0,1.0,1.0,0.0
+Alejandro Garnacho,ar ARG,"FW,MF",18.0,19,569.0,3.0,2.0,5.0,0.0
+Anthony Elanga,se SWE,FW,20.0,16,426.0,0.0,1.0,1.0,0.0
+Cristiano Ronaldo,pt POR,FW,37.0,10,525.0,1.0,0.0,1.0,0.0
+Donny van de Beek,nl NED,MF,25.0,7,167.0,0.0,0.0,0.0,0.0
+Facundo Pellistri,uy URU,"FW,MF",20.0,4,64.0,0.0,0.0,0.0,0.0
+Kobbie Mainoo,eng ENG,MF,17.0,1,11.0,0.0,0.0,0.0,0.0
+Rhys Bennett,eng ENG,DF,18.0,0,,,,,
+Nathan Bishop,eng ENG,GK,22.0,0,,,,,
+Jack Butland,eng ENG,GK,29.0,0,,,,,
+Martin Dúbravka,sk SVK,GK,33.0,0,,,,,
+James Garner,eng ENG,MF,21.0,0,,,,,
+Tom Heaton,eng ENG,GK,36.0,0,,,,,
+Zidane Iqbal,iq IRQ,MF,19.0,0,,,,,
+Marc Jurado,es ESP,DF,18.0,0,,,,,
+Matej Kovar,cz CZE,GK,22.0,0,,,,,
+Shola Shoretire,eng ENG,MF,18.0,0,,,,,
+Brandon Williams,eng ENG,DF,21.0,0,,,,,
+Squad Total,,,26.9,38,3420.0,56.0,42.0,98.0,3.0
+Opponent Total,,,26.4,38,3420.0,42.0,28.0,70.0,2.0

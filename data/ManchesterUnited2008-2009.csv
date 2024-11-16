@@ -1,0 +1,36 @@
+Player,Nation,Pos,Age,MP,Min,Gls,Ast,G+A,PK
+Nemanja Vidić,rs SRB,DF,26.0,34,2981,4.0,1.0,5.0,0.0
+Edwin van der Sar,nl NED,GK,37.0,33,2911,0.0,0.0,0.0,0.0
+Cristiano Ronaldo,pt POR,"FW,MF",23.0,33,2742,18.0,6.0,24.0,4.0
+Dimitar Berbatov,bg BUL,FW,27.0,31,2538,9.0,9.0,18.0,0.0
+Patrice Evra,fr FRA,DF,27.0,28,2407,0.0,2.0,2.0,0.0
+Wayne Rooney,eng ENG,"FW,MF",22.0,30,2265,12.0,7.0,19.0,0.0
+Darren Fletcher,sct SCO,MF,24.0,26,2051,3.0,0.0,3.0,0.0
+Rio Ferdinand,eng ENG,DF,29.0,24,2139,0.0,0.0,0.0,0.0
+Michael Carrick,eng ENG,MF,27.0,28,2041,4.0,5.0,9.0,0.0
+Park Ji-sung,kr KOR,MF,27.0,25,1721,2.0,2.0,4.0,0.0
+John O'Shea,ie IRL,"DF,MF",27.0,30,1989,0.0,3.0,3.0,0.0
+Carlos Tevez,ar ARG,"FW,MF",24.0,29,1858,5.0,3.0,8.0,0.0
+Jonny Evans,nir NIR,DF,20.0,17,1422,0.0,0.0,0.0,0.0
+Ryan Giggs,wls WAL,"FW,MF",34.0,28,1509,2.0,7.0,9.0,0.0
+Paul Scholes,eng ENG,MF,33.0,21,1269,2.0,2.0,4.0,0.0
+Gary Neville,eng ENG,DF,33.0,16,1074,0.0,0.0,0.0,0.0
+Rafael,br BRA,"DF,MF",18.0,16,1054,1.0,0.0,1.0,0.0
+Anderson,br BRA,MF,20.0,17,930,0.0,0.0,0.0,0.0
+Nani,pt POR,"FW,MF",21.0,13,550,1.0,2.0,3.0,0.0
+Wes Brown,eng ENG,DF,28.0,8,596,1.0,0.0,1.0,0.0
+Tomasz Kuszczak,pl POL,GK,26.0,4,329,0.0,0.0,0.0,0.0
+Federico Macheda,it ITA,FW,16.0,4,190,2.0,1.0,3.0,0.0
+Ben Foster,eng ENG,GK,25.0,2,180,0.0,0.0,0.0,0.0
+Darron Gibson,ie IRL,MF,20.0,3,140,1.0,0.0,1.0,0.0
+Danny Welbeck,eng ENG,"FW,MF",17.0,3,118,1.0,0.0,1.0,0.0
+Owen Hargreaves,eng ENG,MF,27.0,2,115,0.0,0.0,0.0,0.0
+Lee Martin,eng ENG,"FW,MF",21.0,1,90,0.0,0.0,0.0,0.0
+Fraizer Campbell,eng ENG,FW,20.0,1,79,0.0,0.0,0.0,0.0
+Ritchie De Laet,be BEL,DF,19.0,1,78,0.0,0.0,0.0,0.0
+Rodrigo Possebon,it ITA,MF,19.0,3,55,0.0,0.0,0.0,0.0
+Richard Eckersley,eng ENG,DF,19.0,2,51,0.0,0.0,0.0,0.0
+Zoran Tošić,rs SRB,"FW,MF",21.0,2,18,0.0,0.0,0.0,0.0
+Manucho,ao ANG,FW,25.0,1,17,0.0,1.0,1.0,0.0
+Squad Total,,,27.1,38,3420,68.0,51.0,119.0,4.0
+Opponent Total,,,26.6,38,3420,,,,

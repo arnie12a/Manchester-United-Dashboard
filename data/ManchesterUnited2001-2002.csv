@@ -1,0 +1,31 @@
+Player,Nation,Pos,Age,MP,Min,Gls,Ast,G+A,PK
+Fabien Barthez,fr FRA,GK,30.0,32,2892,0.0,0.0,0.0,0.0
+Mikaël Silvestre,fr FRA,DF,23.0,35,2802,0.0,5.0,5.0,0.0
+Gary Neville,eng ENG,DF,26.0,34,2794,0.0,3.0,3.0,0.0
+Paul Scholes,eng ENG,MF,26.0,35,2755,8.0,5.0,13.0,0.0
+Ruud van Nistelrooy,nl NED,FW,25.0,32,2730,23.0,4.0,27.0,4.0
+Laurent Blanc,fr FRA,"DF,MF",35.0,29,2549,1.0,0.0,1.0,0.0
+Roy Keane,ie IRL,MF,29.0,28,2465,3.0,5.0,8.0,0.0
+Juan Sebastián Verón,ar ARG,MF,26.0,26,2037,5.0,1.0,6.0,0.0
+David Beckham,eng ENG,MF,26.0,28,2129,11.0,8.0,19.0,1.0
+Ole Gunnar Solskjær,no NOR,FW,28.0,30,2062,17.0,9.0,26.0,0.0
+Phil Neville,eng ENG,"DF,MF",24.0,28,2037,2.0,0.0,2.0,0.0
+Nicky Butt,eng ENG,"DF,MF",26.0,25,1709,1.0,1.0,2.0,0.0
+Ryan Giggs,wls WAL,"FW,MF",27.0,25,1680,7.0,12.0,19.0,0.0
+Wes Brown,eng ENG,DF,21.0,17,1374,0.0,0.0,0.0,0.0
+Denis Irwin,ie IRL,DF,35.0,12,824,0.0,0.0,0.0,0.0
+Ronny Johnsen,no NOR,DF,32.0,10,815,1.0,0.0,1.0,0.0
+Quinton Fortune,za RSA,MF,24.0,14,697,1.0,0.0,1.0,0.0
+Andy Cole,eng ENG,FW,29.0,11,713,4.0,3.0,7.0,
+Roy Carroll,nir NIR,GK,23.0,7,548,0.0,0.0,0.0,0.0
+Luke Chadwick,eng ENG,MF,20.0,8,404,0.0,2.0,2.0,0.0
+Dwight Yorke,tt TRI,"FW,MF",29.0,10,469,1.0,0.0,1.0,0.0
+John O'Shea,ie IRL,"DF,MF",20.0,9,364,0.0,0.0,0.0,0.0
+David May,eng ENG,DF,31.0,2,168,0.0,0.0,0.0,0.0
+Jaap Stam,nl NED,DF,29.0,1,90,0.0,0.0,0.0,0.0
+Diego Forlán,uy URU,"FW,MF",22.0,3,52,0.0,0.0,0.0,0.0
+Raimond van der Gouw,nl NED,GK,38.0,2,27,0.0,0.0,0.0,0.0
+Michael Stewart,sct SCO,MF,20.0,1,23,0.0,0.0,0.0,0.0
+Ronnie Wallwork,eng ENG,"DF,MF",23.0,1,8,0.0,0.0,0.0,0.0
+Squad Total,,,27.5,38,3420,81.0,56.0,137.0,5.0
+Opponent Total,,,26.9,38,3420,,,,

@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,MP,Min,Gls,Ast,G+A,PK
+Edwin van der Sar,nl NED,GK,34.0,38,3375,0.0,0.0,0.0,0.0
+Rio Ferdinand,eng ENG,DF,26.0,37,3297,3.0,0.0,3.0,0.0
+Wayne Rooney,eng ENG,"FW,MF",19.0,36,3075,16.0,9.0,25.0,0.0
+John O'Shea,ie IRL,"DF,MF",24.0,34,2828,1.0,2.0,3.0,0.0
+Mikaël Silvestre,fr FRA,DF,27.0,33,2646,1.0,2.0,3.0,0.0
+Ruud van Nistelrooy,nl NED,FW,29.0,35,2595,21.0,3.0,24.0,2.0
+Cristiano Ronaldo,pt POR,"FW,MF",20.0,33,2286,9.0,6.0,15.0,0.0
+Gary Neville,eng ENG,DF,30.0,25,2164,0.0,0.0,0.0,0.0
+Park Ji-sung,kr KOR,MF,24.0,33,1989,2.0,8.0,10.0,0.0
+Darren Fletcher,sct SCO,MF,21.0,27,1901,1.0,2.0,3.0,0.0
+Ryan Giggs,wls WAL,"FW,MF",31.0,27,1859,2.0,7.0,9.0,0.0
+Paul Scholes,eng ENG,MF,30.0,20,1617,2.0,2.0,4.0,0.0
+Wes Brown,eng ENG,DF,25.0,19,1475,0.0,2.0,2.0,0.0
+Alan Smith,eng ENG,"FW,MF",24.0,21,1469,1.0,2.0,3.0,0.0
+Kieran Richardson,eng ENG,"DF,MF",20.0,22,1162,1.0,1.0,2.0,0.0
+Louis Saha,fr FRA,FW,26.0,19,1146,7.0,1.0,8.0,0.0
+Nemanja Vidić,rs SRB,DF,23.0,11,859,0.0,0.0,0.0,0.0
+Patrice Evra,fr FRA,DF,24.0,11,571,0.0,0.0,0.0,0.0
+Roy Keane,ie IRL,MF,33.0,5,370,0.0,0.0,0.0,0.0
+Phil Bardsley,sct SCO,DF,20.0,8,303,0.0,0.0,0.0,0.0
+Gabriel Heinze,ar ARG,DF,27.0,4,229,0.0,0.0,0.0,0.0
+Giuseppe Rossi,it ITA,FW,18.0,5,135,1.0,0.0,1.0,0.0
+Gerard Piqué,es ESP,DF,18.0,3,97,0.0,0.0,0.0,0.0
+Ole Gunnar Solskjær,no NOR,FW,32.0,3,62,0.0,0.0,0.0,0.0
+Tim Howard,us USA,GK,26.0,1,45,0.0,0.0,0.0,0.0
+Liam Miller,ie IRL,MF,24.0,1,2,0.0,0.0,0.0,0.0
+Squad Total,,,26.4,38,3420,68.0,50.0,118.0,2.0
+Opponent Total,,,26.7,38,3420,,,,

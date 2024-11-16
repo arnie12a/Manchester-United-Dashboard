@@ -1,0 +1,32 @@
+Player,Nation,Pos,Age,MP,Min,Gls,Ast,G+A,PK
+Gary Neville,eng ENG,DF,25.0,32,2849,1.0,1.0,2.0,0.0
+Fabien Barthez,fr FRA,GK,29.0,30,2675,0.0,0.0,0.0,0.0
+David Beckham,eng ENG,MF,25.0,31,2648,9.0,12.0,21.0,1.0
+Paul Scholes,eng ENG,MF,25.0,32,2450,6.0,5.0,11.0,0.0
+Roy Keane,ie IRL,MF,28.0,28,2380,2.0,7.0,9.0,0.0
+Wes Brown,eng ENG,DF,20.0,28,2264,0.0,0.0,0.0,0.0
+Mikaël Silvestre,fr FRA,DF,22.0,30,2251,1.0,2.0,3.0,0.0
+Ryan Giggs,wls WAL,"FW,MF",26.0,31,2218,5.0,8.0,13.0,0.0
+Phil Neville,eng ENG,"DF,MF",23.0,29,2185,1.0,0.0,1.0,0.0
+Nicky Butt,eng ENG,"DF,MF",25.0,28,2036,3.0,2.0,5.0,0.0
+Teddy Sheringham,eng ENG,FW,34.0,29,2003,15.0,6.0,21.0,1.0
+Denis Irwin,ie IRL,DF,34.0,21,1758,0.0,2.0,2.0,0.0
+Ole Gunnar Solskjær,no NOR,FW,27.0,31,1755,10.0,4.0,14.0,0.0
+Dwight Yorke,tt TRI,"FW,MF",28.0,22,1473,9.0,4.0,13.0,0.0
+Andy Cole,eng ENG,FW,28.0,19,1314,9.0,3.0,12.0,0.0
+Jaap Stam,nl NED,DF,28.0,15,1235,0.0,0.0,0.0,0.0
+Ronny Johnsen,no NOR,DF,31.0,11,895,1.0,0.0,1.0,0.0
+Luke Chadwick,eng ENG,MF,19.0,16,623,2.0,0.0,2.0,0.0
+Quinton Fortune,za RSA,MF,23.0,7,538,2.0,0.0,2.0,0.0
+Raimond van der Gouw,nl NED,GK,37.0,10,531,0.0,0.0,0.0,0.0
+Ronnie Wallwork,eng ENG,"DF,MF",22.0,12,565,0.0,0.0,0.0,0.0
+Jonathan Greening,eng ENG,MF,21.0,7,273,0.0,1.0,1.0,0.0
+Michael Stewart,sct SCO,MF,19.0,3,239,0.0,0.0,0.0,0.0
+Andy Goram,sct SCO,GK,36.0,2,124,0.0,0.0,0.0,0.0
+David May,eng ENG,DF,30.0,2,99,0.0,0.0,0.0,0.0
+Paul Rachubka,eng ENG,GK,19.0,1,90,0.0,0.0,0.0,0.0
+Henning Berg,no NOR,DF,30.0,1,45,0.0,0.0,0.0,0.0
+David Healy,nir NIR,FW,20.0,1,32,0.0,0.0,0.0,
+Bojan Djordjic,se SWE,MF,18.0,1,13,0.0,0.0,0.0,0.0
+Squad Total,,,26.9,38,3420,77.0,60.0,137.0,2.0
+Opponent Total,,,26.8,38,3420,,,,

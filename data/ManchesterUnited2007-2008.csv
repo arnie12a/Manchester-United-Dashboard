@@ -1,0 +1,28 @@
+Player,Nation,Pos,Age,MP,Min,Gls,Ast,G+A,PK
+Rio Ferdinand,eng ENG,DF,28.0,35,3045,2.0,1.0,3.0,0.0
+Wes Brown,eng ENG,DF,27.0,36,3030,1.0,2.0,3.0,0.0
+Patrice Evra,fr FRA,DF,26.0,33,2820,0.0,1.0,1.0,0.0
+Nemanja Vidić,rs SRB,DF,25.0,32,2665,1.0,1.0,2.0,0.0
+Cristiano Ronaldo,pt POR,"FW,MF",22.0,34,2747,31.0,6.0,37.0,4.0
+Carlos Tevez,ar ARG,"FW,MF",23.0,34,2677,14.0,6.0,20.0,0.0
+Edwin van der Sar,nl NED,GK,36.0,29,2565,0.0,0.0,0.0,0.0
+Ryan Giggs,wls WAL,"FW,MF",33.0,31,2233,3.0,4.0,7.0,0.0
+Wayne Rooney,eng ENG,"FW,MF",21.0,27,2181,12.0,9.0,21.0,0.0
+Michael Carrick,eng ENG,MF,26.0,31,2203,2.0,2.0,4.0,0.0
+Paul Scholes,eng ENG,MF,32.0,24,1836,1.0,4.0,5.0,0.0
+Nani,pt POR,"FW,MF",20.0,26,1573,3.0,9.0,12.0,0.0
+Owen Hargreaves,eng ENG,MF,26.0,23,1528,2.0,2.0,4.0,0.0
+Anderson,br BRA,MF,19.0,24,1484,0.0,0.0,0.0,0.0
+John O'Shea,ie IRL,"DF,MF",26.0,28,1147,0.0,1.0,1.0,0.0
+Tomasz Kuszczak,pl POL,GK,25.0,9,765,0.0,0.0,0.0,0.0
+Park Ji-sung,kr KOR,MF,26.0,12,631,1.0,1.0,2.0,0.0
+Louis Saha,fr FRA,FW,28.0,17,741,5.0,0.0,5.0,2.0
+Darren Fletcher,sct SCO,MF,23.0,16,653,0.0,2.0,2.0,0.0
+Gerard Piqué,es ESP,DF,20.0,9,482,0.0,0.0,0.0,0.0
+Mikaël Silvestre,fr FRA,DF,29.0,3,186,0.0,0.0,0.0,0.0
+Chris Eagles,eng ENG,MF,21.0,4,133,0.0,0.0,0.0,0.0
+Danny Simpson,eng ENG,DF,20.0,3,130,0.0,0.0,0.0,0.0
+Ben Foster,eng ENG,GK,24.0,1,90,0.0,0.0,0.0,0.0
+Fraizer Campbell,eng ENG,FW,19.0,1,18,0.0,0.0,0.0,0.0
+Squad Total,,,26.7,38,3420,78.0,52.0,130.0,6.0
+Opponent Total,,,26.5,38,3420,,,,

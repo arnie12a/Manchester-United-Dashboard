@@ -1,0 +1,29 @@
+Player,Nation,Pos,Age,MP,Min,Gls,Ast,G+A,PK
+Mikaël Silvestre,fr FRA,DF,26.0,35,2948,2.0,1.0,3.0,0.0
+Rio Ferdinand,eng ENG,DF,25.0,31,2790,0.0,2.0,2.0,0.0
+Paul Scholes,eng ENG,MF,29.0,33,2605,9.0,3.0,12.0,0.0
+Roy Keane,ie IRL,MF,32.0,31,2610,1.0,2.0,3.0,0.0
+Roy Carroll,nir NIR,GK,26.0,26,2340,0.0,0.0,0.0,0.0
+Ryan Giggs,wls WAL,"FW,MF",30.0,32,2321,6.0,9.0,15.0,0.0
+Gabriel Heinze,ar ARG,DF,26.0,26,2287,1.0,1.0,2.0,0.0
+Cristiano Ronaldo,pt POR,"FW,MF",19.0,33,2423,5.0,4.0,9.0,0.0
+Wayne Rooney,eng ENG,"FW,MF",18.0,29,2185,11.0,2.0,13.0,0.0
+Alan Smith,eng ENG,"FW,MF",23.0,31,2042,6.0,4.0,10.0,0.0
+Gary Neville,eng ENG,DF,29.0,22,1890,0.0,3.0,3.0,0.0
+Wes Brown,eng ENG,DF,24.0,21,1641,1.0,0.0,1.0,0.0
+Darren Fletcher,sct SCO,MF,20.0,18,1370,3.0,2.0,5.0,0.0
+John O'Shea,ie IRL,"DF,MF",23.0,23,1490,2.0,1.0,3.0,0.0
+Ruud van Nistelrooy,nl NED,FW,28.0,17,1361,6.0,1.0,7.0,3.0
+Tim Howard,us USA,GK,25.0,12,1080,0.0,0.0,0.0,0.0
+Phil Neville,eng ENG,"DF,MF",27.0,19,1069,0.0,0.0,0.0,0.0
+Quinton Fortune,za RSA,MF,27.0,17,1041,0.0,0.0,0.0,0.0
+Louis Saha,fr FRA,FW,25.0,14,670,1.0,2.0,3.0,0.0
+José Kléberson,br BRA,MF,25.0,8,416,0.0,1.0,1.0,0.0
+Eric Djemba-Djemba,cm CMR,MF,23.0,5,281,0.0,0.0,0.0,0.0
+Liam Miller,ie IRL,MF,23.0,8,265,0.0,0.0,0.0,0.0
+Jonathan Spector,us USA,"DF,MF",18.0,3,171,0.0,0.0,0.0,0.0
+David Bellion,fr FRA,FW,21.0,10,208,2.0,0.0,2.0,0.0
+Kieran Richardson,eng ENG,"DF,MF",19.0,2,24,0.0,0.0,0.0,0.0
+Diego Forlán,uy URU,"FW,MF",25.0,1,17,0.0,0.0,0.0,0.0
+Squad Total,,,26.0,38,3420,57.0,45.0,102.0,3.0
+Opponent Total,,,27.2,38,3420,,,,

@@ -9,7 +9,9 @@
     <h1>Manchester United Players</h1>
     <ul>
         {% for player in players %}
-            <li>{{ player.name }} - {{ player.position }} (Goals: {{ player.goals }})</li>
+            <li>
+                <strong>{{ player.name }}</strong> - {{ player.position }} (Goals: {{ player.goals }})
+            </li>
         {% endfor %}
     </ul>
 </body>

@@ -17,8 +17,8 @@ const App = () => {
           column,
         },
       });
-      console.log(response.data);
-      setData(response.data.message || JSON.stringify(response.data)); // Show response data
+      console.log(response.data['message']);
+      setData(response.data['message'] || JSON.stringify(response.data)); // Show response data
     } catch (error) {
       console.error('Error fetching data:', error);
       setError('Failed to fetch data.');
@@ -89,7 +89,7 @@ const App = () => {
 
       <div className="mt-4">
         <h2 className="text-lg font-bold">Results:</h2>
-        {error ? <p className="text-red-500">{error}</p> : <pre>{data}</pre>}
+        {data}
       </div>
     </div>
   );

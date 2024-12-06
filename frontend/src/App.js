@@ -2,94 +2,62 @@ import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 
 const App = () => {
-  const [dataType, setDataType] = useState('team'); // Default to 'team'
-  const [season, setSeason] = useState(2019); // Default to 2019
-  const [column, setColumn] = useState('Pts'); // Default to 'Pts'
-  const [data, setData] = useState(null);
+  const [squadData, setSquadData] = useState(null);
+  const [pointsData, setPointsData] = useState(null);
   const [error, setError] = useState(null);
 
-  const fetchData = async () => {
+  // Fetch data based on column and season parameters
+  const fetchData = async (column, season) => {
     try {
       const response = await axios.get('http://127.0.0.1:8000/query', {
         params: {
-          data_type: dataType,
-          season,
-          column,
+          data_type: 'team',
+          season: season,
+          column: column,
         },
       });
-      console.log(response.data['message']);
-      setData(response.data['message'] || JSON.stringify(response.data)); // Show response data
+      if (column === 'Squad') {
+        setSquadData(response.data['message'] || JSON.stringify(response.data));
+      } else if (column === 'Pts') {
+        setPointsData(response.data['message'] || JSON.stringify(response.data));
+      }
     } catch (error) {
       console.error('Error fetching data:', error);
       setError('Failed to fetch data.');
     }
   };
 
-  // Update column automatically based on data type
   useEffect(() => {
-    setColumn(dataType === 'team' ? 'Pts' : 'G+A');
-  }, [dataType]);
-
-  useEffect(() => {
-    fetchData();
-  }, [dataType, season, column]);
+    fetchData('Squad', 2019); // Fetch Squad data for season 2019
+    fetchData('Pts', 2019);   // Fetch Points data for season 2019
+  }, []); // Run only once when the component mounts
 
   return (
     <div className="p-4">
-      <h1 className="text-xl font-bold mb-4">Team Points Data</h1>
-      
-      <div className="mb-4">
-        <label className="block font-medium mb-1">Data Type:</label>
-        <select
-          className="border rounded p-2"
-          value={dataType}
-          onChange={(e) => setDataType(e.target.value)}
-        >
-          <option value="team">Team</option>
-          <option value="player">Player</option>
-        </select>
-      </div>
+      <h1 className="text-xl font-bold mb-4">Team Data for 2019</h1>
 
-      <div className="mb-4">
-        <label className="block font-medium mb-1">Season:</label>
-        <select
-          className="border rounded p-2"
-          value={season}
-          onChange={(e) => setSeason(parseInt(e.target.value, 10))}
-        >
-          {Array.from({ length: 2023 - 2010 + 1 }, (_, i) => 2010 + i).map((year) => (
-            <option key={year} value={year}>
-              {year}
-            </option>
-          ))}
-        </select>
-      </div>
+      {error && <div className="text-red-500">{error}</div>}
 
-      <div className="mb-4">
-        <label className="block font-medium mb-1">Column:</label>
-        <select
-          className="border rounded p-2"
-          value={column}
-          onChange={(e) => setColumn(e.target.value)}
-        >
-          {dataType === 'team' ? (
-            <option value="Pts">Pts</option>
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        {/* Squad Data */}
+        <div className="bg-gray-100 p-4 rounded">
+          <h2 className="text-lg font-bold mb-2">Squad Data</h2>
+          {squadData ? (
+            <pre>{JSON.stringify(squadData, null, 2)}</pre>
           ) : (
-            <option value="G+A">G+A</option>
+            <div>Loading Squad Data...</div>
           )}
-        </select>
-      </div>
+        </div>
 
-      <button
-        className="bg-blue-500 text-white py-2 px-4 rounded mt-2"
-        onClick={fetchData}
-      >
-        Fetch Data
-      </button>
-
-      <div className="mt-4">
-        <h2 className="text-lg font-bold">Results:</h2>
-        {data}
+        {/* Points Data */}
+        <div className="bg-gray-100 p-4 rounded">
+          <h2 className="text-lg font-bold mb-2">Points Data</h2>
+          {pointsData ? (
+            <pre>{JSON.stringify(pointsData, null, 2)}</pre>
+          ) : (
+            <div>Loading Points Data...</div>
+          )}
+        </div>
       </div>
     </div>
   );
